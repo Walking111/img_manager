@@ -1,0 +1,8 @@
+{
+    "name": "walking111/img_upload_test",
+    "autoload": {
+        "psr-4" : {
+            "walking111\\": "src/"
+        }
+    }
+}
