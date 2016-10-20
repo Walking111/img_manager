@@ -1,5 +1,5 @@
 {
-    "name": "walking111/img_upload_test",
+    "name": "walking111/img_manager",
     "autoload": {
         "psr-4" : {
             "walking111\\": "src/"
